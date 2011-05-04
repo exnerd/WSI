@@ -1,0 +1,26 @@
+WSI Project is my first Android project. The purpose is to retrieve your own comic collection (strips in het vloams)
+
+At this moment I have no plans to open an account on the Google Market.
+The advantage are not to known. The disadvantage are the price. So if you want to try this application, try it at
+your risk by copying the .apk file (found in the bin directory) to your device and installing it.
+
+Prerequisted : 
+	* you need an account on stripinfo.be ;-)
+	* your collection has to be public accessible ( see http://www.stripinfo.be/member_cp.php)
+	
+How to use : 
+After installing the app, start the app, if all went well a screen with three tabs appears.
+Hit the menu button. A menu-bar appears, hit 'Instellingen', fill in your accountname. Hit menu again, and sync.
+
+Known issues:
+	* large collection tend to take long to download.
+	* Sync does not actually sync, but delete the local(Android) version of the collection and download the collection again.
+	* after a succesfull download the tabs are not refreshed. Closing and reopening the app should help.
+	* the only information accesible about your collection is 'Reeks' - 'Titel' - 'In bezit'
+	
+Further request :
+	* download more information (cover, datum, ...)
+	* download only the diff
+	...
+	
+exnerd.   
